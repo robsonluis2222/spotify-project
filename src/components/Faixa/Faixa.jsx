@@ -9,8 +9,8 @@ const Faixa = (props) => {
     <div className='faixa-div'>
         <img src={img} alt="faixa" />
         <div className='especificacoes'>
-            <span className='artist-name'>{musicName}</span>
-            <span className='artist-artist'>{artist}</span>
+            <span className='nome-faixa'>{musicName}</span>
+            <span className='artista-faixa'>{artist}</span>
         </div>
     </div>
   )

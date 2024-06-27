@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
+
 .faixa-div{
     display: flex;
     align-items: center;
@@ -19,11 +21,22 @@
     flex-direction: column;
     margin-left: 8px;
 }
-.artist-name{
+.nome-faixa{
     margin-top: -0px !important;
     text-overflow: ellipsis !important;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+
 }
-.artist-artist{
+.artista-faixa{
     margin-top: -0px !important;
     text-overflow: ellipsis !important;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: darkgray;
 }
