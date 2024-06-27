@@ -6,15 +6,16 @@
     flex-direction: column;
 }
 .artist img{
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     border-radius: 50%;
+    margin-bottom: 8px;
 }
 .artist-name{
-    font-size: 20px !important;
+    font-size: 18px !important;
 }
 .artist-artist{
     color: dimgray !important;
-    font-size: 18px !important;
+    font-size: 14px !important;
     margin-top: -0px !important;
 }
