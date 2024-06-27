@@ -1,0 +1,20 @@
+.artist{
+    margin-top: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.artist img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.artist-name{
+    font-size: 20px !important;
+}
+.artist-artist{
+    color: dimgray !important;
+    font-size: 18px !important;
+    margin-top: -0px !important;
+}
